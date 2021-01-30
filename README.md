@@ -1,4 +1,5 @@
-# hi idk why i have an account here check my very good quality projects
+# not about me
+hi idk why i have an account here check my very good quality projects
 
 ## pog
 
