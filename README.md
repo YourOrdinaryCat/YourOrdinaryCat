@@ -3,7 +3,7 @@ I am a person. Not a good one, but a person nonetheless.
 
 ## About Me
 - I speak Spanish, English, and a bit of French
-- From Colombia, 17, he/him
+- From Colombia, 18, he/him, Wii U owner
 - University Student, System Engineering
 
 ## Programming Languages
@@ -27,5 +27,4 @@ I am a person. Not a good one, but a person nonetheless.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourOrdinaryCat&show_icons=true&theme=dark&bg_color=161b22&border_color=30363d)](https://github.com/anuraghazra/github-readme-stats)
 
-## Followers
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/YourOrdinaryCat?color=black&label=Github%20Followers&logo=Github&logoColor=white&style=for-the-badge">
