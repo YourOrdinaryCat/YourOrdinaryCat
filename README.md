@@ -13,9 +13,10 @@ I am a person. Not a good one, but a person nonetheless.
 - Some C
 - Some C++ (mostly WinRT)
 - Some JavaScript
-- Some Objective-C (don't ask)
+- Some Lua
 - Some PHP
 - Some Python
+- Would like to learn Rust
 
 ## UI Design Frameworks/Libraries
 - XAML (C++/WinRT, C#/WinRT, WPF, some Uno Platform)
