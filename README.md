@@ -23,6 +23,9 @@ I am a person who uses the Wii U Deluxe Set Yarn Yoshi in the videogame Yoshi's 
 - SwiftUI (Swift)
 - HTML/CSS
 
+## Contact me
+- Matrix: https://matrix.to/#/@imordinarycat:matrix.org
+
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourOrdinaryCat&show_icons=true&theme=dark&bg_color=161b22&border_color=30363d)](https://github.com/anuraghazra/github-readme-stats)
 
