@@ -1,9 +1,9 @@
 # Welcome
-I am a person. Not a good one, but a person nonetheless.
+I am a person who uses the Wii U Deluxe Set Yarn Yoshi in the videogame Yoshi's Woolly World released for the
 
 ## About Me
 - I speak Spanish, English, and a bit of French
-- From Colombia, 18, he/him, Wii U owner
+- From Colombia, 18, he/him
 - University Student, System Engineering
 
 ## Programming Languages
