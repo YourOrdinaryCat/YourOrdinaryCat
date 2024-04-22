@@ -1,7 +1,9 @@
 # Welcome
-I am YourOrdinaryCat. [Come visit](https://yourordinarycat.github.io/YourOrdinaryCat/).
+
+I am YourOrdinaryCat. [Come visit](https://yourordinarycat.github.io/).
 
 ## Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourOrdinaryCat&show_icons=true&theme=dark&bg_color=161b22&border_color=30363d)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourOrdinaryCat&show_icons=true&theme=dark&bg_color=161b22&border_color=30363d)](https://github.com/anuraghazra/github-readme-stats)
