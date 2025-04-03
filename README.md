@@ -1,6 +1,6 @@
 # Welcome
 
-I am YourOrdinaryCat. [Come visit](https://yourordinarycat.github.io/).
+Lizard Kitty! https://yourordinarycat.com/
 
 ## Stats
 
